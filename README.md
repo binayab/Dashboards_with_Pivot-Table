@@ -1,5 +1,7 @@
 # Dashboards_with_Pivot-Table
 
-Simple Dashboard design using Pivot Table in Excel.
+**Dataset: Sales data of a company
 
-Adding the plots made from Pivot Table and slicer at the end to complete the Dashboard. 
+## Using Pivot Table to analyze the dataset, make plots to find the best salesperson, sales trend, sales by region. <br /> top customers and total count of sales per invoice group.
+
+## Finally, putting everything together on a Dashboard and adding a slicer to filter along the attributes. 
